@@ -1,4 +1,4 @@
-# Android CatLoadingView
+# Android LoadingView MAster BESt 
 
 This project idea is from [Link](http://mp.weixin.qq.com/s?__biz=MjM5MDMxOTE5NA==&mid=402703079&idx=2&sn=2fcc6746a866dcc003c68ead9b68e595&scene=2&srcid=0302A7p723KK8E5gSzLKb2ZL&from=timeline&isappinstalled=0#wechat_redirect).<br>
 Thanks for the idea.<br>
