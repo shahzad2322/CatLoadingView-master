@@ -18,7 +18,7 @@ Import this project into Android Studio... it's built with it.
 #### Gradle
 
 ```
-implementation 'com.roger.catloadinglibrary:catloadinglibrary:1.0.4'
+implementation 'com.github.shahzad2322:CatLoadingView-master:1.0'
 ```
 
 ####  config in java code
