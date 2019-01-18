@@ -5,7 +5,7 @@ Thanks for the idea.<br>
 
 I like the animation in this picture:<br>
 
-![](http://ww4.sinaimg.cn/mw690/a695acdejw1f2hbmfxzk5g208u0a2ass.gif)
+
 
 ...as you see it right now, I hope you like it!
 
